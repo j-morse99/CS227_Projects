@@ -1,30 +1,5 @@
 /**********************************************************************/
 /*                                                                    */
-/* Program Name: program5 - Inclusive summing whole numbers           */
-/* Author:       Jonathan Morse                                       */
-/* Installatiom: Pensacola Christian College, Pensacola, Florida      */
-/* Course:       CS227, Data Structures and Algorithms                */
-/* Date Written: October 28, 2019                                     */
-/*                                                                    */
-/**********************************************************************/
-
-/**********************************************************************/
-/*                                                                    */
-/* I pledge this assignment is my own first time work.                */
-/* I pledge I did not copy or try to copy any work from the Internet. */
-/* I pledge the only person I asked for help from was my teacher.     */
-/* I pledge I did not attempt to help any student on this assignment. */
-/* I understand if I violate this pledge I will receive a 0 grade.    */
-/*                                                                    */
-/*                                                                    */
-/*                      Signed: _____________________________________ */
-/*                                           (signature)              */
-/*                                                                    */
-/*                                                                    */
-/**********************************************************************/
-
-/**********************************************************************/
-/*                                                                    */
 /* This program uses recursion to inclusively sum all the even        */
 /* numbers in a given number range and prints the sum.                */
 /*                                                                    */
